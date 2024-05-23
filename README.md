@@ -9,11 +9,11 @@ This project is licensed under the CERN Open Hardware License v2 - Permissive (C
 
 ## Attribution
 This project is based on the original work by:
-Jake Lorkin
-Sharif Modhar
-Jack Joyce
-Timothy Hassett
-Jordan Ama
+Jake Lorkin,
+Sharif Modhar,
+Jack Joyce,
+Timothy Hassett,
+Jordan Ama.
 The design files, documentation, and code provided here are modifications and enhancements of the original work.
 
 ## Modifications
