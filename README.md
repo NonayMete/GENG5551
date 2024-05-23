@@ -12,7 +12,7 @@ This project is based on the original work by:
 Jake Lorkin,
 Sharif Modhar,
 Jack Joyce,
-Timothy Hassett,
+Timothy Hassett and
 Jordan Ama.
 The design files, documentation, and code provided here are modifications and enhancements of the original work.
 
