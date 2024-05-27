@@ -1,0 +1,5 @@
+Flight Computer Interface=FCI_TX,FCI_RX,FCI_INT
+GNSS_CTRL=Rx,Tx,WAKE
+LED=G,R,B
+SWD=SWDIO,SWCLK
+USB=D+,D-
